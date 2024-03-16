@@ -1,11 +1,10 @@
 # chord_recognition_evaluation
 
-**create_master_dict.py
-**loads the estimation resulting lab files of the three different chord estimation model's from the corresponding folders:
+create_master_dict.py loads the estimation resulting lab files of the three different chord estimation model's from the corresponding folders:
 
-1 Large vocabulary chord transcription [1]
-2 Bidirectional transformer for musical chord recognition [2] 
-3 Autochord [3]
+- 1 Large vocabulary chord transcription [1]
+- 2 Bidirectional transformer for musical chord recognition [2] 
+- 3 Autochord [3]
 
 and also 2 new estimations of our real-time experimenting, named:
 
